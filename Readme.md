@@ -42,8 +42,8 @@
 - [x] Classification quality metrics.
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/metrics/homework_classification_2_les_1_part_1.ipynb)
 ---
-- [ ] Multi-class classification
-- [ ] Homework
+- [x] Multi-class classification
+- [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/metrics/homework_classification_2_les_2.ipynb)
 ---
 - [ ] ML formulation of the clustering problem
 - [ ] Homework
