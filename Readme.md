@@ -39,8 +39,8 @@
 - [x] Decision Trees Algorithm
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/classification/homework_classification_1_les_8.ipynb)
 ---
-- [ ] Classification quality metrics.
-- [ ] Homework
+- [x] Classification quality metrics.
+- [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/metrics/homework_classification_2_les_1_part_1.ipynb)
 ---
 - [ ] Classification quality metrics.
 - [ ] Homework
