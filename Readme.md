@@ -42,9 +42,6 @@
 - [x] Classification quality metrics.
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/metrics/homework_classification_2_les_1_part_1.ipynb)
 ---
-- [ ] Classification quality metrics.
-- [ ] Homework
----
 - [ ] Multi-class classification
 - [ ] Homework
 ---
