@@ -2,7 +2,7 @@
 <details>
 <summary>
     
-## Beginner level ![](https://geps.dev/progress/61)
+## Beginner level ![](https://geps.dev/progress/65)
 </summary>
 
 - [x] Training with a teacher. Regression
@@ -55,8 +55,8 @@
 - [x] K-means algorithm
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/clustering/jun_ml_7_hw_2.ipynb)
 ---
-- [ ] Selecting the number of clusters 𝑘 in the k-means algorithm
-- [ ] K-means algorithm in python
+- [x] Selecting the number of clusters 𝑘 in the k-means algorithm
+- [x] K-means algorithm in python
 - [ ] DBSCAN Algorithm
 - [ ] Homework
 ---
