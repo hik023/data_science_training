@@ -1,5 +1,9 @@
 # ML educational progress
-## Beginner level
+<details>
+<summary>
+    
+## Beginner level ![](https://geps.dev/progress/61)
+</summary>
 
 - [x] Training with a teacher. Regression
 - [x] Training with a teacher. Classification
@@ -81,10 +85,21 @@
 - [ ] Working with Notebook and Kernel in Kaggle
 - [ ] Homework
 
+</details>
+<details>
+<summary>
+    
 ## Advanced level (neural networks)
+</summary>
 
 will be filled after completing the previous level
+
+</details>
+<details>
+<summary>
 
 ## Advanced level (recommendation systems)
+</summary>
 
 will be filled after completing the previous level
+</details>
