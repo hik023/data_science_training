@@ -45,8 +45,8 @@
 - [x] Multi-class classification
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/metrics/homework_classification_2_les_2.ipynb)
 ---
-- [ ] ML formulation of the clustering problem
-- [ ] Homework
+- [x] ML formulation of the clustering problem
+- [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/clustering/jun_ml_7_hw_1.ipynb)
 ---
 - [ ] K-means algorithm
 - [ ] Homework
