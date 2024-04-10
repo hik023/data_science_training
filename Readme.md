@@ -2,7 +2,7 @@
 <details>
 <summary>
     
-## Beginner level ![](https://geps.dev/progress/68)
+## Beginner level ![](https://geps.dev/progress/72)
 </summary>
 
 - [x] Training with a teacher. Regression
@@ -60,8 +60,8 @@
 - [x] DBSCAN Algorithm
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/clustering/jun_ml_7_hw_5.ipynb)
 ---
-- [ ] Clustering quality metrics
-- [ ] Homework
+- [x] Clustering quality metrics
+- [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/clustering/jun_ml_7_hw_6.ipynb)
 ---
 - [ ] Statement of the dimensionality reduction problem
 - [ ] Using PCA for Dimensionality Reduction
