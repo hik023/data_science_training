@@ -2,7 +2,7 @@
 <details>
 <summary>
     
-## Beginner level ![](https://geps.dev/progress/77)
+## Beginner level ![](https://geps.dev/progress/82)
 </summary>
 
 - [x] Training with a teacher. Regression
@@ -67,9 +67,9 @@
 - [x] Using PCA for Dimensionality Reduction
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/dimensionality_reduction/jun_ml_dimension_reduction_hw_2_.ipynb)
 ---
-- [ ] Advanced: Implementing PCA Algorithm
-- [ ] SVD conversion
-- [ ] Homework
+- [x] Advanced: Implementing PCA Algorithm
+- [x] SVD conversion
+- [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/dimensionality_reduction/jun_ml_dimension_reduction_hw_4.ipynb)
 ---
 - [ ] t-SNE transformation
 - [ ] Homework
