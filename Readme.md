@@ -2,7 +2,7 @@
 <details>
 <summary>
     
-## Beginner level ![](https://geps.dev/progress/72)
+## Beginner level ![](https://geps.dev/progress/77)
 </summary>
 
 - [x] Training with a teacher. Regression
@@ -63,9 +63,9 @@
 - [x] Clustering quality metrics
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/clustering/jun_ml_7_hw_6.ipynb)
 ---
-- [ ] Statement of the dimensionality reduction problem
-- [ ] Using PCA for Dimensionality Reduction
-- [ ] Homework
+- [x] Statement of the dimensionality reduction problem
+- [x] Using PCA for Dimensionality Reduction
+- [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/dimensionality_reduction/jun_ml_dimension_reduction_hw_2_.ipynb)
 ---
 - [ ] Advanced: Implementing PCA Algorithm
 - [ ] SVD conversion
