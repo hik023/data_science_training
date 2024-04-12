@@ -2,7 +2,7 @@
 <details>
 <summary>
     
-## Beginner level ![](https://geps.dev/progress/82)
+## Beginner level ![](https://geps.dev/progress/86)
 </summary>
 
 - [x] Training with a teacher. Regression
@@ -71,8 +71,8 @@
 - [x] SVD conversion
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/dimensionality_reduction/jun_ml_dimension_reduction_hw_4.ipynb)
 ---
-- [ ] t-SNE transformation
-- [ ] Homework
+- [x] t-SNE transformation
+- [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/dimensionality_reduction/jun_ml_dimension_reduction_hw_5.ipynb)
 ---
 - [ ] Introduction to Boosting
 - [ ] Gradient Boosting and XGBoost in practice
