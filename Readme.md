@@ -2,7 +2,7 @@
 <details>
 <summary>
     
-## Beginner level ![](https://geps.dev/progress/91)
+## Beginner level ![](https://geps.dev/progress/95)
 </summary>
 
 - [x] Training with a teacher. Regression
@@ -78,8 +78,8 @@
 - [x] [Gradient Boosting and XGBoost in practice](https://github.com/hik023/data_science_training/blob/master/neural/classification/jun_ml_extra_tech_boost_practice.ipynb)
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/classification/jun_ml_extra_tech_boost_hw.ipynb)
 ---
-- [ ] Stacking
-- [ ] Homework
+- [x] [Stacking](https://github.com/hik023/data_science_training/blob/master/neural/classification/jun_ml_extra_tech_stack_practice.ipynb)
+- [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/classification/jun_ml_extra_tech_stack_hw.ipynb)
 ---
 - [ ] Why should you learn Kaggle?
 - [ ] Working with Notebook and Kernel in Kaggle
