@@ -89,10 +89,103 @@
 <details>
 <summary>
     
-## Advanced level (neural networks)
+## Advanced level (neural networks) ![](https://geps.dev/progress/0)
 </summary>
 
-will be filled after completing the previous level
+- [ ] Linear classifier.
+- [ ] Error functionality
+- [ ] Neuron and Logistic Regression
+- [ ] Homework
+---
+- [ ] Gradient Descent
+- [ ] Back propagation method
+- [ ] Activation functions
+- [ ] Homework
+---
+- [ ] Defining a Model in Tensorflow
+- [ ] Training a Model in Tensorflow
+- [ ] Saving and loading models in TF
+- [ ] Homework
+---
+- [ ] Convolutions
+- [ ] Demo. Convolutional layer in Keras
+- [ ] Demo. Convolutional Network in Keras
+- [ ] Demo. Input pipeline
+- [ ] Homework
+---
+- [ ] Retraining/Augmentation
+- [ ] Demo. Model inference
+- [ ] What do neural networks “see”?
+- [ ] Demo. Transfer learning in Keras
+- [ ] Homework
+---
+- [ ] Implementation of weak localization with using a sliding window
+- [ ] Classification network conversion to full convolution
+- [ ] Implementation of FCN training
+---
+- [ ] Implementation of the modernized FCN networks
+- [ ] U-Net implementation
+- [ ] Implementation of ASPP network
+- [ ] Homework
+---
+- [ ] Implementation of the model for Classifications+Localizations
+---
+- [ ] Preparing a training dataset for R-CNN
+- [ ] Model creation and training
+- [ ] Running R-CNN
+---
+- [ ] Implementing Fast R-CNN
+- [ ] SSD implementation
+- [ ] Homework
+---
+- [ ] Demo. Image generation as an optimization problem
+- [ ] Generating an image with perceptual loss
+- [ ] Demo. Generating textures in Keras
+- [ ] Homework on style transfer
+---
+- [ ] Demo. 2D GAN
+- [ ] Demo. DCGAN
+- [ ] Homework
+---
+- [ ] Goals and Objectives of NLP
+- [ ] Text pre-processing
+- [ ] Homework
+- [ ] Vectorization of text: Bag of Words
+- [ ] Homework
+- [ ] Vectorization of words: Word2Vec
+- [ ] Homework
+---
+- [ ] Implementation of the RNN layer
+- [ ] RNN Network Implementation
+- [ ] Implementation of LSTM.
+- [ ] Recurrent neural networks for text classification
+- [ ] Implementation and training of a text classifier
+- [ ] Homework
+---
+- [ ] Implementation of the language model
+- [ ] Encoder-Decoder Implementation
+---
+- [ ] Getting to know the Gym.
+- [ ] Q-function
+- [ ] Implementing Tabular Q-Learning
+- [ ] Homework
+---
+- [ ] Exploration
+- [ ] Implementing DQN
+- [ ] Experience Replay
+- [ ] Homework
+---
+- [ ] Implementation of channel-by-channel separable convolution
+- [ ] Pruning
+- [ ] Using TensorRT to optimize neural networks
+- [ ] Homework
+---
+- [ ] Saving and Loading TensorFlow Models
+- [ ] TensorFlow Serving
+- [ ] Homework
+
+
+
 
 </details>
 <details>
