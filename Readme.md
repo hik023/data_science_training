@@ -89,13 +89,13 @@
 <details>
 <summary>
     
-## Advanced level (neural networks) ![](https://geps.dev/progress/0)
+## Advanced level (neural networks) ![](https://geps.dev/progress/4)
 </summary>
 
-- [ ] Linear classifier.
-- [ ] Error functionality
-- [ ] Neuron and Logistic Regression
-- [ ] Homework
+- [x] [Linear classifier.](https://github.com/hik023/data_science_training/blob/master/neural/classification/practice_1_linear.ipynb)
+- [x] [Error functionality](https://github.com/hik023/data_science_training/blob/master/neural/classification/practice_2_likelihood.ipynb)
+- [x] [Neuron and Logistic Regression](https://github.com/hik023/data_science_training/blob/master/neural/classification/practice_3_neuron.ipynb)
+- [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/classification/homework_1.ipynb)
 ---
 - [ ] Gradient Descent
 - [ ] Back propagation method
