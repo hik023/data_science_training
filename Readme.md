@@ -89,7 +89,7 @@
 <details>
 <summary>
     
-## Advanced level (neural networks) ![](https://geps.dev/progress/7)
+## Advanced level (neural networks) ![](https://geps.dev/progress/11)
 </summary>
 
 - [x] [Linear classifier.](https://github.com/hik023/data_science_training/blob/master/neural/classification/practice_1_linear.ipynb)
@@ -98,9 +98,9 @@
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/classification/homework_1.ipynb)
 ---
 - [x] [Gradient Descent](https://github.com/hik023/data_science_training/blob/master/neural/classification/practice_5_gd.ipynb)
-- [ ] Back propagation method
-- [ ] Activation functions
-- [ ] Homework
+- [x] Back propagation method
+- [x] Activation functions
+- [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/networks/mnist_hw.ipynb)
 ---
 - [ ] Defining a Model in Tensorflow
 - [ ] Training a Model in Tensorflow
