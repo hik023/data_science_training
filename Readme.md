@@ -89,7 +89,7 @@
 <details>
 <summary>
     
-## Advanced level (neural networks) ![](https://geps.dev/progress/4)
+## Advanced level (neural networks) ![](https://geps.dev/progress/7)
 </summary>
 
 - [x] [Linear classifier.](https://github.com/hik023/data_science_training/blob/master/neural/classification/practice_1_linear.ipynb)
@@ -97,7 +97,7 @@
 - [x] [Neuron and Logistic Regression](https://github.com/hik023/data_science_training/blob/master/neural/classification/practice_3_neuron.ipynb)
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/classification/homework_1.ipynb)
 ---
-- [ ] Gradient Descent
+- [x] [Gradient Descent](https://github.com/hik023/data_science_training/blob/master/neural/classification/practice_5_gd.ipynb)
 - [ ] Back propagation method
 - [ ] Activation functions
 - [ ] Homework
