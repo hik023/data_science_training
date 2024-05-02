@@ -1,3 +1,10 @@
-.ipynb_checkpoints/
+.ipynb_checkpoints
 .python-version
-.venv/
+.venv
+.bash_history
+.cache
+.ipython
+.keras
+.local
+.python_history
+stat2_practice.ipynb

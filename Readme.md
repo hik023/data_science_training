@@ -89,7 +89,7 @@
 <details>
 <summary>
     
-## Advanced level (neural networks) ![](https://geps.dev/progress/11)
+## Advanced level (neural networks) ![](https://geps.dev/progress/16)
 </summary>
 
 - [x] [Linear classifier.](https://github.com/hik023/data_science_training/blob/master/neural/classification/practice_1_linear.ipynb)
@@ -102,10 +102,10 @@
 - [x] Activation functions
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/networks/mnist_hw.ipynb)
 ---
-- [ ] Defining a Model in Tensorflow
-- [ ] Training a Model in Tensorflow
-- [ ] Saving and loading models in TF
-- [ ] Homework
+- [x] [Defining a Model in Tensorflow](https://github.com/hik023/data_science_training/blob/master/neural/networks/keras_model_practice.ipynb)
+- [x] [Training a Model in Tensorflow](https://github.com/hik023/data_science_training/blob/master/neural/networks/keras_training_practice.ipynb)
+- [x] [Saving and loading models in TF](https://github.com/hik023/data_science_training/blob/master/neural/networks/3_9_Сохранение_и_загрузка_моделей_в_TF.ipynb)
+- [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/networks/keras_homework.ipynb)
 ---
 - [ ] Convolutions
 - [ ] Demo. Convolutional layer in Keras
