@@ -89,7 +89,7 @@
 <details>
 <summary>
     
-## Advanced level (neural networks) ![](https://geps.dev/progress/16)
+## Advanced level (neural networks) ![](https://geps.dev/progress/23)
 </summary>
 
 - [x] [Linear classifier.](https://github.com/hik023/data_science_training/blob/master/neural/classification/practice_1_linear.ipynb)
@@ -107,11 +107,11 @@
 - [x] [Saving and loading models in TF](https://github.com/hik023/data_science_training/blob/master/neural/networks/3_9_Сохранение_и_загрузка_моделей_в_TF.ipynb)
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/networks/keras_homework.ipynb)
 ---
-- [ ] Convolutions
-- [ ] Demo. Convolutional layer in Keras
-- [ ] Demo. Convolutional Network in Keras
-- [ ] Demo. Input pipeline
-- [ ] Homework
+- [x] Convolutions
+- [x] [Demo. Convolutional layer in Keras](https://github.com/hik023/data_science_training/blob/master/neural/networks/Convolutions/Практика_по_Conv2Dipynb.ipynb)
+- [x] [Demo. Convolutional Network in Keras](https://github.com/hik023/data_science_training/blob/master/neural/networks/Convolutions/fashion.ipynb)
+- [x] [Demo. Input pipeline](https://github.com/hik023/data_science_training/blob/master/neural/networks/Convolutions/data_pipeline_demo.ipynb)
+- [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/networks/Convolutions/homework_1.ipynb)
 ---
 - [ ] Retraining/Augmentation
 - [ ] Demo. Model inference
