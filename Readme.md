@@ -89,7 +89,7 @@
 <details>
 <summary>
     
-## Advanced level (neural networks) ![](https://geps.dev/progress/23)
+## Advanced level (neural networks) ![](https://geps.dev/progress/34)
 </summary>
 
 - [x] [Linear classifier.](https://github.com/hik023/data_science_training/blob/master/neural/classification/practice_1_linear.ipynb)
@@ -113,15 +113,15 @@
 - [x] [Demo. Input pipeline](https://github.com/hik023/data_science_training/blob/master/neural/networks/Convolutions/data_pipeline_demo.ipynb)
 - [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/networks/Convolutions/homework_1.ipynb)
 ---
-- [ ] Retraining/Augmentation
-- [ ] Demo. Model inference
-- [ ] What do neural networks “see”?
-- [ ] Demo. Transfer learning in Keras
-- [ ] Homework
+- [x] [Retraining/Augmentation](https://github.com/hik023/data_science_training/blob/master/neural/networks/Convolutions/conv_cats_aug_practice_2.ipynb)
+- [x] [Demo. Model inference](https://github.com/hik023/data_science_training/blob/master/neural/networks/Convolutions/Использование_готовых_моделей.ipynb)
+- [x] What do neural networks “see”?
+- [x] Demo. Transfer learning in Keras
+- [x] Homework
 ---
-- [ ] Implementation of weak localization with using a sliding window
-- [ ] Classification network conversion to full convolution
-- [ ] Implementation of FCN training
+- [x] Implementation of weak localization with using a sliding window
+- [x] Classification network conversion to full convolution
+- [x] [Implementation of FCN training](https://github.com/hik023/data_science_training/blob/master/neural/networks/Convolutions/Реализация_обучения_FCN.ipynb)
 ---
 - [ ] Implementation of the modernized FCN networks
 - [ ] U-Net implementation
