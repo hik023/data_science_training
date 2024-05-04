@@ -89,7 +89,7 @@
 <details>
 <summary>
     
-## Advanced level (neural networks) ![](https://geps.dev/progress/34)
+## Advanced level (neural networks) ![](https://geps.dev/progress/40)
 </summary>
 
 - [x] [Linear classifier.](https://github.com/hik023/data_science_training/blob/master/neural/classification/practice_1_linear.ipynb)
@@ -165,10 +165,10 @@
 - [ ] Implementation of the language model
 - [ ] Encoder-Decoder Implementation
 ---
-- [ ] Getting to know the Gym.
-- [ ] Q-function
-- [ ] Implementing Tabular Q-Learning
-- [ ] Homework
+- [x] Getting to know the Gym.
+- [x] Q-function
+- [x] Implementing Tabular Q-Learning
+- [x] [Homework](https://github.com/hik023/data_science_training/blob/master/neural/networks/Reinforsment/Q_taxi_v3.ipynb)
 ---
 - [ ] Exploration
 - [ ] Implementing DQN
